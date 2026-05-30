@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustercync",
+        "uuid": 2557440,
+        "checksum": "fbapo"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
